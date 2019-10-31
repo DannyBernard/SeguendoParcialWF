@@ -30,7 +30,7 @@ namespace BLL
 			{
 				if (_contexto.Set<T>().Add(entity) != null)
 				{
-					_contexto.SaveChanges(); //Guardar los cambios
+					_contexto.SaveChanges(); 
 					paso = true;
 				}
 			}
@@ -108,7 +108,7 @@ namespace BLL
 
 		public void Dispose()
 		{
-			//throw new NotImplementedException();
+			throw new NotImplementedException();
 		}
 	}
 }

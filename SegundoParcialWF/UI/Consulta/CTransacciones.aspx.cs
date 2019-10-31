@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace SegundoParcialWF.UI.Registro
+namespace SegundoParcialWF.UI.Consulta
 {
-	public partial class Registro : System.Web.UI.Page
+	public partial class CTransacciones : System.Web.UI.Page
 	{
 		protected void Page_Load(object sender, EventArgs e)
 		{

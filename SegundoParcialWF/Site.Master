@@ -69,7 +69,7 @@
 		</asp:ContentPlaceHolder>
 		<hr />
 		<footer>
-			<p>&copy; <%: DateTime.Now.Year %> - Registro Analisis</p>
+			<p>&copy; <%: DateTime.Now.Year %> - Seguando Parcial</p>
 		</footer>
 	</div>
 </body>

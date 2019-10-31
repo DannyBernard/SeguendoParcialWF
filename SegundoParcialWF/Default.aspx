@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
  <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-4" style="color: blue; font-weight: bold;">Seguendo Parcial</h1>
+            <h1 class="display-4" style="color: blue; font-weight: bold;">Segundo Parcial</h1>
             <p class="lead">Danny Bernard 2015-0070</p>
         </div>
     </div>
